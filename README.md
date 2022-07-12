@@ -17,7 +17,7 @@ Aqui utilizamos diferentes métodos de forma que o utilizado fosse o que apresen
 O primeiro deles foi o KNN(K-Nearest-Kneighbors), este método é um dos mais clássicos e mais implementados algoritmos de filtragem colaborativa, depois SlopeOne e por último coclustering. De forma geral, a maioria deles advém do teorema de Bayes.
 
 ## Como rodar?
-Apenas abra aba do Google Colab [![Google Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sir20PiR/Product-Recommendation-For-IA-Project/blob/main/Sistema_de_Recomenda%C3%A7%C3%A3o.ipynb) e clique em Executar Tudo na aba de Ambientes de Execução.
+Apenas abra aba do Google Colab [![Google Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sir20PiR/Product-Recommendation-For-IA-Project/blob/main/Sistema_de_Recomenda%C3%A7%C3%A3o.ipynb), clique em Copiar para o Drive, coloque o dataset na pasta Colab Notebook no Google Drive, volte para o Colab e clique em Executar Tudo na aba de Ambientes de Execução.
 
 
 Se preferir baixe o arquivos, crie um ambiente virtual, instale os requirementos e rode no Jupyter Notebook.
