@@ -22,7 +22,10 @@ Apenas abra aba do Google Colab [![Google Collab](https://colab.research.google.
 
 Se preferir baixe o arquivos, crie um ambiente virtual, instale os requirementos e rode no Jupyter Notebook.
 ###  Dataset
-Baixe o dataset [DATASET_VIDEO_GAMES](http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Video_Games.csv) e coloque na pasta do Google Drive ou Baixe o dataset e coloque na pasta do ambiente virtual criado, substituindo as linhas
+Baixe o dataset [DATASET_VIDEO_GAMES](http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Video_Games.csv) e coloque na pasta do Google Drive.
+
+
+Caso não queira rodar no colab baixe o dataset e coloque na pasta do ambiente virtual criado, substituindo as linhas
 ```
 from google.colab import drive
 drive.mount('/content/drive')
