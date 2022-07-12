@@ -1,6 +1,6 @@
 # Product-Recommendations-For-IA-Project
 
-![Google Collab](https://colab.research.google.com/assets/colab-badge.svg)()
+[![Google Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sir20PiR/Product-Recommendation-For-IA-Project/blob/main/Sistema_de_Recomenda%C3%A7%C3%A3o.ipynb)
 
 Este projeto aborda os conceitos básicos da implementação da biblioteca Surprise do Python, no qual fizemos códigos para 3 heurísticas de Inteligência Artificial para solucionar vários problemas relacionados a diferentes tipos de sistemas de recomendação.
 
