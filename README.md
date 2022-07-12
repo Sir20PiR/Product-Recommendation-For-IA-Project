@@ -19,8 +19,23 @@ O primeiro deles foi o KNN(K-Nearest-Kneighbors), este método é um dos mais cl
 ## Como rodar?
 Apenas abra aba do Google Colab [![Google Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sir20PiR/Product-Recommendation-For-IA-Project/blob/main/Sistema_de_Recomenda%C3%A7%C3%A3o.ipynb) e clique em Executar Tudo na aba de Ambientes de Execução.
 
-Se preferir baixe o arquivos, crie um ambiente virtual, instale os requirementos e rode no Jupyter Notebook.
 
+Se preferir baixe o arquivos, crie um ambiente virtual, instale os requirementos e rode no Jupyter Notebook.
+###  Dataset
+Baixe o dataset [DATASET_VIDEO_GAMES](http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Video_Games.csv) e coloque na pasta do Google Drive ou Baixe o dataset e coloque na pasta do ambiente virtual criado, substituindo as linhas
+```
+from google.colab import drive
+drive.mount('/content/drive')
+```
+e
+```
+from google.colab import drive
+drive.mount('/content/drive')
+```
+por
+```
+df = pd.read_csv('CAMINHO_DA_PASTA/ratings_Video_Games.csv', header=None, names = ['user_id','prod_id','rating', 'timestamp'])
+```
 ## Créditos e Referências
 SANTOS, Gustavo Rezende. **Building a Recommendation System**. [_S. l._], 27 out. 2020. Disponível em: https://github.com/gurezende/Studying/blob/master/MIT/Module4/Recommendation_Project.ipynb. Acesso em: 20 jun. 2022.
 
