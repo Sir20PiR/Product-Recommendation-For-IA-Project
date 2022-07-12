@@ -2,7 +2,7 @@
 
 [![Google Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sir20PiR/Product-Recommendation-For-IA-Project/blob/main/Sistema_de_Recomenda%C3%A7%C3%A3o.ipynb)
 
-Este projeto aborda os conceitos básicos da implementação da biblioteca Surprise do Python e da média ponderada do IMDB para a predição de produtos, no qual utilizamos mais de 3 heurísticas de **Inteligência Artificial** para solucionar vários problemas relacionados a diferentes tipos de sistemas de recomendação. Disciplina de 64 horas, Inteligência Artificial ministrada pelo [Prof. Msc. Frederico Santos de Oliveira](https://github.com/freds0), no qual atua na área de IA.
+Este projeto aborda os conceitos básicos da implementação da biblioteca Surprise do Python e da média ponderada do IMDB para a predição de produtos, no qual utilizamos mais de 3 heurísticas de **Inteligência Artificial** para solucionar vários problemas relacionados a diferentes tipos de sistemas de recomendação. Disciplina de 64 horas, Inteligência Artificial ministrada pelo [Prof. Msc. Frederico Santos de Oliveira](https://github.com/freds0) - UFMT - Brasil, no qual atua na área de IA.
 ## Descrição do projeto
 
 Nosso projeto é um sistema de recomendação baseado em popularidade e em filtragem colaborativa. Vamos dividir em duas partes para que fique mais fácil a compreensão.
